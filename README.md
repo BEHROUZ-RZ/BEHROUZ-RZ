@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BEHROUZ-RZ
 - 👀 I’m An Android Develooper
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’ looking to collaborate on Android Projects
 
 
 <!---
